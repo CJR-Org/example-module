@@ -1,0 +1,5 @@
+require("./add.cjr")
+
+func sum(a: i32, b: i32): i32 {
+    return add(a, b)
+}
